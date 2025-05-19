@@ -1,7 +1,7 @@
 # Market Data Insights Dashboard
 
-![Project Screenshot](Screenshot(1).png)
-
+![(Screenshot(1)](Screenshot(1).png)
+- https://lenny1-ux.github.io/Marketlive/
 A responsive web application that displays real-time market data (stocks, cryptocurrencies) with interactive charts.
 
 ## Features
