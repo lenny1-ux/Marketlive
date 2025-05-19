@@ -1,6 +1,6 @@
 # Market Data Insights Dashboard
 
-![Project Screenshot](./Screenshot (1).png) 
+![Project Screenshot](./Screenshot(1).png) 
 
 A responsive web application that displays real-time market data (stocks, cryptocurrencies) with interactive charts.
 
